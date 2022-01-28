@@ -5,7 +5,7 @@ namespace Tool.Compet.Log {
 	/// This will log message to both Console and File.
 	/// About log file path:
 	/// - MacOS Editor's log path: ~/Library/Logs/Unity/Editor.log
-	/// - MacOS Player's log path: ~/Library/Logs/Company Name/Product Name/Player.log
+	/// - MacOS Player's log path: ~/Library/Logs/Kilobytes/SuperBattleOnline/Player.log
 	/// Ref: https://docs.unity3d.com/Manual/LogFiles.html
 	public class DkLogs {
 		public static void Debug(object where, string message, object obj = null) {
