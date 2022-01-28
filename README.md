@@ -1,9 +1,23 @@
-# Console Log for Unity
+# Log for Unity
 
-This is based on Debug in Unity.
+This provides logging feature for Unity.
+
+- Features
+
+	```bash
+	- Console log
+	- File log
+	```
+
+- Dependencies
+
+	```bash
+	# Tool.Compet.Core
+	https://github.com/darkcompet/csharp-unity-core
+	```
 
 
-## Quick Start
+## How to install
 
 - Just include it into project by add as git-submodule.
 	
